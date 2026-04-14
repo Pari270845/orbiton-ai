@@ -70,4 +70,4 @@ if st.button("🚀 Start Simulation"):
 
 # Footer
 st.markdown("---")
-st.markdown("💡 *Prototype for hackathon demonstration purposes*")
+
