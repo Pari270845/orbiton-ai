@@ -4,10 +4,10 @@ import math
 import matplotlib.pyplot as plt
 
 # Page config
-st.set_page_config(page_title="Orbital Shield AI", layout="centered")
+st.set_page_config(page_title="Orbiton", layout="centered")
 
 # Title
-st.title("🛰️ Orbital Shield AI")
+st.title("🛰️ Orbiton")
 st.markdown("### 🚀 Preventing Space Collisions Before They Happen")
 
 # Initialize satellites
