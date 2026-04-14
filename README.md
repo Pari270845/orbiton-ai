@@ -1,12 +1,3 @@
 # orbiton-ai
 Orbiton is an AI-powered prototype that predicts potential collisions between satellites and space debris using simulated orbital data. It visualizes object movement in real time and provides risk analysis to improve space safety.
-🧠 How It Works
-1.Initialize satellite positions and velocities.
-2.Simulate movement over time.
-3.Calculate distance between objects.
-4.Detect collision risk based on threshold.
-5.Display results in real-time.
-🧰 Tech Stack
-Python
-Streamlit
-Matplotlib
+The prototype is built using Python with Streamlit for the user interface and Matplotlib for visualization. It demonstrates how AI and data-driven approaches can be applied to real-world space problems in a simplified yet effective manner. This project serves as a foundation for future enhancements, including integration with real satellite data, advanced machine learning models, and fully autonomous collision avoidance systems.
